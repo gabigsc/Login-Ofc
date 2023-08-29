@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="coralColor">#FFFFA07A</color>
+    <color name="darkOrangeColor">#FFFF8C00</color>
+    <color name="tomatoColor">#FFFF7F50</color>
+
+    <color name="tomatoRedColor">#FFFF6347</color>
+    <color name="orangeredColor">#FFFF4500</color>
+    <color name="orangeColor">#FFFFA500</color>
+</resources>
